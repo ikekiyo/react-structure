@@ -5,7 +5,7 @@ interface LayoutProps {
   children: React.ReactNode
 }
 
-export default function Layout({ children }: LayoutProps): JSX.Element {
+export default function AppMainLayout({ children }: LayoutProps): JSX.Element {
   return (
     <div className={`min-h-screen`}>
       <div className="relative z-10">
