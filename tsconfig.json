@@ -20,6 +20,7 @@
       "parts/*": ["src/components/parts//*"],
       "templates/*": ["src/components/templates/*"],
       "layouts/*": ["src/layouts/*"],
+      "features/*": ["src/features/*"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
