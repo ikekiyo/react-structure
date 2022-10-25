@@ -1,6 +1,6 @@
 # react-structure
 
-React.js のディレクトリ構造検討
+React.js × Next.js でのディレクトリ構造検討
 
 ## ディレクトリ構造
 
@@ -71,7 +71,7 @@ ex) users, clients, authentication など
 
 またその他にも機能間で共通の型や機能内でのみ共有するコンポーネントなども管理する。
 
-#### 第 3 階層
+#### 第三階層
 
 各機能は基本的にコンテナ・プレゼンテーションパターンを導入する。
 https://zenn.dev/morinokami/books/learning-patterns-1/viewer/presentational-container-pattern
