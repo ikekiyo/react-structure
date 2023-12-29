@@ -6,7 +6,10 @@ React.js × Next.js でのディレクトリ構造検討
 
 ```
 ├── components
+│   ├── elements
 │   ├── parts
+│   ├── forms
+│   ├── frames
 │   └── templates
 ├── features
 │   └── users
